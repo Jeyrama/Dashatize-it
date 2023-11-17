@@ -20,3 +20,5 @@ function dashatize(num) {
     .replace(/--+/g, '-')
     .replace(/(^-|-$)/g, '')
 }
+
+// or
